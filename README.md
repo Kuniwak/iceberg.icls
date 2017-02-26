@@ -31,6 +31,7 @@ Overview
 Installation
 ------------
 
+Download the latest [`iceberg.jar`](https://github.com/Kuniwak/iceberg.icls/releases).
 See [Importing settings from a JAR archive](https://www.jetbrains.com/help/idea/2016.3/exporting-and-importing-settings.html#d2139467e55).
 
 
