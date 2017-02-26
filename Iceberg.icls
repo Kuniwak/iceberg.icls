@@ -3,7 +3,7 @@
     <property name="created">2017-02-26T15:18:49</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-26T15:51:34</property>
+    <property name="modified">2017-02-26T21:47:28</property>
     <property name="originalScheme">Xcode - Iceberg</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.99" />
@@ -477,6 +477,52 @@
         <option name="BACKGROUND" value="273627" />
       </value>
     </option>
+    <option name="JSON.BRACES">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="JSON.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="889fc2" />
+      </value>
+    </option>
+    <option name="JSON.INVALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="d57d7a" />
+        <option name="BACKGROUND" value="1e2130" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a191c9" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="a191c9" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="b7c685" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="9d95c1" />
+      </value>
+    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="2a00" />
@@ -508,6 +554,171 @@
     <option name="LOG_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d8a581" />
+      </value>
+    </option>
+    <option name="MARKDOWN_AUTO_LINK">
+      <value>
+        <option name="FOREGROUND" value="9d94c3" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="5d5773" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BLOCK_QUOTE">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BOLD">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BOLD_MARKER">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_FENCE">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN_MARKER">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="e3a676" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="e3a676" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="e3a676" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="e3a676" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="e3a676" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="e3a676" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_MARKER">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HRULE">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HTML_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="MARKDOWN_IMAGE">
+      <value />
+    </option>
+    <option name="MARKDOWN_INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC_MARKER">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value>
+        <option name="FOREGROUND" value="9d94c3" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="5d5773" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_LABEL">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_TEXT">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+        <option name="EFFECT_COLOR" value="49576e" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_TITLE">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LIST_ITEM">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LIST_MARKER">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+      </value>
+    </option>
+    <option name="MARKDOWN_REFERENCE_LINK">
+      <value />
+    </option>
+    <option name="MARKDOWN_STRIKE_THROUGH">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+        <option name="EFFECT_COLOR" value="3d415d" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -604,9 +815,49 @@
     <option name="SWIFT_CLASS_REFERENCE">
       <value />
     </option>
+    <option name="SWIFT_EXTERNAL_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
+      </value>
+    </option>
+    <option name="SWIFT_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="SWIFT_NESTED_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="SWIFT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="SWIFT_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="SWIFT_PROTOCOL_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="SWIFT_STRING">
+      <value>
+        <option name="FOREGROUND" value="b7c685" />
+      </value>
+    </option>
     <option name="SWIFT_STRUCT_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="b5c2cb" />
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="SWIFT_TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -667,6 +918,46 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d57d7a" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="9d94c3" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="89b8c1" />
+      </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="b7c685" />
+      </value>
+    </option>
+    <option name="XML_NS_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="b7c685" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="74778c" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
+      </value>
+    </option>
+    <option name="XML_TAG_DATA">
+      <value>
+        <option name="FOREGROUND" value="c7c9d1" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="859fc8" />
       </value>
     </option>
   </attributes>
