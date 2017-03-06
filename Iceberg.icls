@@ -3,18 +3,11 @@
     <property name="created">2017-02-26T15:18:49</property>
     <property name="ide">AppCode</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-26T21:47:28</property>
+    <property name="modified">2017-03-06T17:22:24</property>
     <property name="originalScheme">Xcode - Iceberg</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.99" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Hiragino Kaku Gothic ProN" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="11" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="11" />
@@ -24,23 +17,41 @@
     <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="45483f" />
+    <option name="ANNOTATIONS_COLOR" value="78787d" />
     <option name="CARET_COLOR" value="babbc7" />
     <option name="CARET_ROW_COLOR" value="1e2130" />
     <option name="CONSOLE_BACKGROUND_KEY" value="151720" />
     <option name="DELETED_LINES_COLOR" value="4e353b" />
-    <option name="FILESTATUS_ADDED" value="1e2130" />
+    <option name="FILESTATUS_ADDED" value="969e70" />
+    <option name="FILESTATUS_DELETED" value="d08c7d" />
+    <option name="FILESTATUS_HIJACKED" value="b2a285" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="d08c7d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="5e606a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="b5534d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="b5534d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="b5534d" />
+    <option name="FILESTATUS_MERGED" value="8c8f9e" />
+    <option name="FILESTATUS_MODIFIED" value="8aa4c8" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8aa4c8" />
+    <option name="FILESTATUS_OBSOLETE" value="afa275" />
+    <option name="FILESTATUS_SWITCHED" value="7d9795" />
+    <option name="FILESTATUS_UNKNOWN" value="b5534d" />
+    <option name="FILESTATUS_addedOutside" value="969e70" />
+    <option name="FILESTATUS_changelistConflict" value="b5534d" />
+    <option name="FILESTATUS_modifiedOutside" value="8aa4c8" />
     <option name="GUTTER_BACKGROUND" value="111219" />
     <option name="INDENT_GUIDE" value="1b1f31" />
     <option name="MODIFIED_LINES_COLOR" value="3a4750" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="d8a581" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="4d3a29" />
     <option name="SELECTION_BACKGROUND" value="1d2032" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="c2c799" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="92b6bf" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="9d95c1" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="d8a581" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="dd918d" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="31342a" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="384044" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="383545" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="322923" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="342525" />
     <option name="WHITESPACES" value="1b1f31" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3a4750" />
   </colors>
@@ -80,8 +91,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="55587c" />
-        <option name="ERROR_STRIPE_COLOR" value="89a0c0" />
+        <option name="BACKGROUND" value="313448" />
+        <option name="ERROR_STRIPE_COLOR" value="8aa4c8" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -156,13 +167,15 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="474967" />
+        <option name="FOREGROUND" value="9e93c5" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="e9ebf3" />
+        <option name="BACKGROUND" value="313448" />
         <option name="ERROR_STRIPE_COLOR" value="282c40" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -223,7 +236,6 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="d8a581" />
         <option name="BACKGROUND" value="705542" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -425,7 +437,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="c2c799" />
+        <option name="BACKGROUND" value="434940" />
         <option name="ERROR_STRIPE_COLOR" value="c2c799" />
       </value>
     </option>
@@ -728,7 +740,8 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="55587c" />
+        <option name="BACKGROUND" value="393431" />
+        <option name="ERROR_STRIPE_COLOR" value="afa275" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
