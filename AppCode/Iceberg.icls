@@ -1,14 +1,15 @@
 <scheme name="Iceberg" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-02-26T15:18:49</property>
+    <property name="created">2018-05-03T20:10:45</property>
     <property name="ide">AppCode</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-07-12T12:28:40</property>
-    <property name="originalScheme">Xcode - Iceberg</property>
+    <property name="ideVersion">2018.1.2.0.0</property>
+    <property name="modified">2018-05-03T20:11:00</property>
+    <property name="originalScheme">Iceberg</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.99" />
   <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="11" />
@@ -18,7 +19,6 @@
     <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="45483f" />
     <option name="ANNOTATIONS_COLOR" value="78787d" />
@@ -815,6 +815,7 @@
         <option name="FOREGROUND" value="b5c2cb" />
       </value>
     </option>
+    <option name="OC.METHOD_DECLARATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="OC.NAMESPACE_LIKE">
       <value>
         <option name="FOREGROUND" value="b5c2cb" />
