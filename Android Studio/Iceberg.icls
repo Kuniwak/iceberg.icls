@@ -1,9 +1,9 @@
 <scheme name="Iceberg" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-07-09T16:16:15</property>
+    <property name="created">2018-07-10T16:56:30</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.3.0</property>
-    <property name="modified">2018-07-09T16:16:34</property>
+    <property name="modified">2018-07-10T16:56:50</property>
     <property name="originalScheme">Iceberg</property>
   </metaInfo>
   <colors>
@@ -587,6 +587,11 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d57d7a" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dcab86" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
