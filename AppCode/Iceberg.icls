@@ -1,15 +1,12 @@
 <scheme name="Iceberg" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-05-03T20:10:45</property>
+    <property name="created">2018-08-01T19:22:27</property>
     <property name="ide">AppCode</property>
-    <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-05-03T20:11:00</property>
+    <property name="ideVersion">2018.1.6.0.0</property>
+    <property name="modified">2018-08-01T19:22:42</property>
     <property name="originalScheme">Iceberg</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.99" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="11" />
@@ -19,6 +16,7 @@
     <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="0.99" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="45483f" />
     <option name="ANNOTATIONS_COLOR" value="78787d" />
@@ -810,11 +808,7 @@
         <option name="FOREGROUND" value="b5c2cb" />
       </value>
     </option>
-    <option name="OC.MESSAGE_ARGUMENT">
-      <value>
-        <option name="FOREGROUND" value="b5c2cb" />
-      </value>
-    </option>
+    <option name="OC.MESSAGE_ARGUMENT" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="OC.METHOD_DECLARATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="OC.NAMESPACE_LIKE">
       <value>
