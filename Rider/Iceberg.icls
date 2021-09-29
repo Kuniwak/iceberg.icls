@@ -1,9 +1,9 @@
 <scheme name="Iceberg" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-06-25T19:31:04</property>
+    <property name="created">2021-09-29T11:00:31</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2020.1.3.0.0</property>
-    <property name="modified">2020-06-25T19:31:16</property>
+    <property name="ideVersion">2021.2.1.0.0</property>
+    <property name="modified">2021-09-29T11:00:47</property>
     <property name="originalScheme">Iceberg</property>
   </metaInfo>
   <colors>
@@ -235,7 +235,6 @@
         <option name="FOREGROUND" value="84a0c6" />
       </value>
     </option>
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
@@ -567,7 +566,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="HAML_CLASS" baseAttributes="" />
     <option name="HAML_COMMENT" baseAttributes="" />
     <option name="HAML_FILTER" baseAttributes="" />
@@ -675,8 +673,6 @@
         <option name="FOREGROUND" value="c6c8d1" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -803,7 +799,7 @@
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
+    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="84a0c6" />
@@ -977,6 +973,11 @@
     <option name="ReSharper.BRACE_OUTLINE">
       <value />
     </option>
+    <option name="ReSharper.CSHARP_MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
       <value>
         <option name="FOREGROUND" value="c6c8d0" />
@@ -1104,6 +1105,30 @@
         <option name="EFFECT_COLOR" value="45493e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="ReSharper.T4_ATTRIBUTE_VALUE">
+      <value />
+    </option>
+    <option name="ReSharper.T4_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="bfc1ca" />
+        <option name="BACKGROUND" value="1f2233" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.T4_DIRECTIVE">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="ReSharper.T4_DIRECTIVE_ATTRIBUTE">
+      <value />
+    </option>
+    <option name="ReSharper.T4_ENVIRONMENT_VARIABLE">
+      <value />
+    </option>
+    <option name="ReSharper.T4_MACRO">
+      <value />
     </option>
     <option name="ReSharper.UNITY_IMPLICITLY_USED_IDENTIFIER">
       <value />
